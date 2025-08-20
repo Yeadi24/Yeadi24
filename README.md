@@ -25,25 +25,21 @@
 
 ### 🛠️ Skills  
 
+#### 💻 Frontend Technologies
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,nextjs" />
 </p>
 
+#### ⚙️ Backend Technologies
 <p align="center">
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jwt" />
 </p>
 
+#### 🛠️ Tools & Platforms
 <p align="center">
-  <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-<p align="center">
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
 
 
 
