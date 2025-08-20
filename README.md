@@ -32,10 +32,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,nextjs" />
 </p>
 
+---
+
 #### ⚙️ Backend Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jwt" />
 </p>
+
+---
 
 #### 🛠️ Tools & Platforms
 <p align="center">
