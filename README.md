@@ -14,6 +14,15 @@
 
 ---
 
+
+### 🚀 Current Activities  
+
+- 🌱 I am exploring **Next.js** to build modern web applications.  
+- ⚡ Currently developing a **Next.js project** for hands-on learning.  
+- 📚 Continuously improving my skills in **TypeScript** and **API development**.  
+- 🤝 Open to collaborating on **open-source projects** and **startup ideas**.  
+
+
 ### 🌐 Connect With Me  
 
 <p align="center">
