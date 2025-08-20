@@ -28,16 +28,16 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yeadi/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
-      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co.com/5hx9VLCy/linkedin-1.png">
+      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://i.ibb.co.com/fGqsYs8y/linkedin.png">
     </picture>
   </a>
 
   <!-- Twitter -->
   <a href="https://x.com/rafiulhaque21">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/twitter/white">
-      <img alt="Twitter" title="Twitter" height="48" width="48" src="https://cdn.simpleicons.org/twitter">
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co.com/DD7hykqh/twitter.png">
+      <img alt="Twitter" title="Twitter" height="48" width="48" src="https://i.ibb.co.com/DD7hykqh/twitter.png">
     </picture>
   </a>
 
