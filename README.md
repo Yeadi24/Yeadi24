@@ -20,7 +20,31 @@
 - 🌱 I am exploring **Next.js** to build modern web applications.  
 - ⚡ Currently developing a **Next.js project** for hands-on learning.  
 - 📚 Continuously improving my skills in **TypeScript** and **API development**.  
-- 🤝 Open to collaborating on **open-source projects** and **startup ideas**.  
+- 🤝 Open to collaborating on **open-source projects** and **startup ideas**.
+
+
+### 🛠️ Skills  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+  <!-- Backend & Database -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
 
 
 ### 🌐 Connect With Me  
