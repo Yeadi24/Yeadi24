@@ -5,3 +5,11 @@
 <h3 align="center">💻 MERN Stack Developer | Passionate about Building Scalable Web Apps 🚀</h3>
 
 ---
+
+### 👨‍💻 About Me  
+- 🔭 I’m currently working on **MERN stack projects**  
+- 🌱 I’m learning **Next.js & TypeScript**  
+- 💡 Love solving real-world problems with **clean & efficient code**  
+- ⚡ Fun fact: I debug faster with ☕ coffee  
+
+---
