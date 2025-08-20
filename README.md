@@ -22,6 +22,8 @@
 - 📚 Continuously improving my skills in **TypeScript** and **API development**.  
 - 🤝 Open to collaborating on **open-source projects** and **startup ideas**.
 
+---
+
 
 ### 🛠️ Skills  
 
@@ -41,7 +43,7 @@
 </p>
 
 
-
+---
 
 ### 🌐 Connect With Me  
 
