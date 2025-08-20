@@ -28,7 +28,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yeadi/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co.com/5hx9VLCy/linkedin-1.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co.com/fGqsYs8y/linkedin.png">
       <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://i.ibb.co.com/fGqsYs8y/linkedin.png">
     </picture>
   </a>
